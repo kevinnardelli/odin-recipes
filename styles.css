@@ -1,6 +1,6 @@
-* {
-  background-color: rgb(197, 183, 165);
-  text-align: center;
+/* Home page */
+.home-body {
+  background-color: bisque;
 }
 
 h1 {
@@ -13,4 +13,26 @@ h1 {
 
 li {
   text-align: left;
+}
+
+/* Watermelon sangria page */
+
+.wm-body {
+  background-color: lightskyblue;
+  text-align: center;
+}
+
+ol,
+ul,
+h2 {
+  text-align: left;
+}
+
+#wm-ingredients {
+  text-align: center;
+}
+
+#wm-steps {
+  text-align: right;
+  color: orange;
 }
