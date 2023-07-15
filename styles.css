@@ -1,0 +1,16 @@
+* {
+  background-color: rgb(197, 183, 165);
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;   
+}
+
+.list {
+  font-size: larger;
+}
+
+li {
+  text-align: left;
+}
