@@ -6,3 +6,5 @@ This project will demonstrate I've learned the basics of HTML language, such as 
 It will also help me understand, practice and learned about the command line, Git and Github.
 
 In summary, "Project: recipes" will demonstrate I have learned all the lessons previous to this point.
+
+I've completed the first and second lessons of CSS basics. I've added some CSS style to home, watermelon sangria and ceviche pages; they look bad, but my goal was to experiment with my new knowledge. I'm excited about this path!
