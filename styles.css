@@ -36,3 +36,37 @@ h2 {
   text-align: right;
   color: orange;
 }
+
+/* Ceviche page */
+
+.ceviche-body {
+  background-color: #000000;
+  text-align: center;
+  color: white;
+}
+
+.ceviche-body p {
+  text-align: left;
+}
+
+.ceviche-body .description {
+  color: green;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ceviche-body .ingredients {
+  color: red;
+  font: 900;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ceviche-body .steps {
+  font-weight: 100;
+}
+
+#ceviche-tips {
+  color: lightseagreen;
+  font-size: 800px;
+  font: bolder;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
