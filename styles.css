@@ -1,18 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'NORDIC LIGHT', sans-serif;
+  background-color: bisque;                                         
+}
+
 /* Home page */
+
+
 .home-body {
-  background-color: bisque;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  padding: 15px 15px 30px 15px;
 }
 
-h1 {
-  font-family: 'Times New Roman', Times, serif;   
+.home-body .img-div {
+  max-width: 30%;
+  display: inline-block;
+  height: auto;
+  border: 2px solid black;
+  margin: 5px;
 }
 
-.list {
-  font-size: larger;
+.yeah-boi {
+  max-width: 100%;
+  border-bottom: 2px solid black;
 }
 
-li {
-  text-align: left;
+.home-body .recipes-div {
+  display: inline-block;
+  width: 60%;
+  height: 100%;
+  border: 2px solid black;
+  margin: 5px;
+  vertical-align: top;
+}
+
+.recipes-div h1 {
+  text-align: center;
+  color: rgb(41, 41, 213);
+  font-size: 100px;
+  margin-bottom: 25px;
+}
+
+.recipes-div li {
+  padding: 20px;
+  font-size: 50px;
+  list-style-type: none;
+  margin: 20px auto;
+}
+
+#odin-description {
+  padding: 10px;
+  color: #7d0d29;
+}
+
+.recipes-div p {
+  padding: 20px;
+  margin-top: 56px;
+  font-family: sans-serif;
+  font-size: smaller;
 }
 
 /* Watermelon sangria page */
